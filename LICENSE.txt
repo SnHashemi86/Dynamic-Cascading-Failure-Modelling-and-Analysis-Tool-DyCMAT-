@@ -1,0 +1,11 @@
+License and Rights Reserved
+Copyright © 2025–2026. All rights reserved.
+
+This software interface, source code structure, workflows, documentation, and related implementations were developed 
+for research activities associated with the University of Cyprus.
+
+Redistribution, modification, commercial use, sublicensing, or incorporation of this software or substantial portions 
+thereof into other software products is not permitted without prior written permission from the copyright holder(s)/developer(s).
+
+This software requires a valid installation and license of DIgSILENT PowerFactory. 
+DIgSILENT PowerFactory is proprietary third-party software and is not distributed with DyCFMAT.
