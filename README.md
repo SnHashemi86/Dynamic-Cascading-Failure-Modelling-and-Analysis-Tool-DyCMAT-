@@ -126,4 +126,4 @@ Research Areas:
 - Cascading-failure analysis
 - Converter-dominated grids
 - HVDC-interconnected systems
-- IBR-integrated system
+- IBR-integrated systems
