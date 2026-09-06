@@ -125,5 +125,5 @@ Research Areas:
 - Power-system resilience
 - Cascading-failure analysis
 - Converter-dominated grids
-- HVDC systems
-- Cyber-physical energy systems
+- HVDC-interconnected systems
+- IBR-integrated system
