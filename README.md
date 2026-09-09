@@ -33,7 +33,6 @@ The tool supports automated installation and configuration of:
 - Overloading relays
 - Under-frequency load shedding 
 - Generator frequency tripping
-- RoCoF protection (AddRoCoF)
 - Over-voltage tripping 
 - Under-voltage tripping 
 
