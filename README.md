@@ -47,7 +47,7 @@ The tool supports automated installation and configuration of:
 - PowerFactory Python 3.10 API environment
 
 ## Important Note
-Although distributed as an executable application (.exe), DyCFMAT operates as an external interface/controller for DIgSILENT PowerFactory and therefore requires an installed PowerFactory environment.
+Although distributed as an executable application (.exe), DyCMAT operates as an external interface/controller for DIgSILENT PowerFactory and therefore requires an installed PowerFactory environment.
 
 
 # How to Run
