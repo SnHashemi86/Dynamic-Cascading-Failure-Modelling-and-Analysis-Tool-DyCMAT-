@@ -1,0 +1,6 @@
+evt  - (t=02:000 s) Grid\Line 16 - 17.ElmLne:
+                    Outage Event: Element set to out of service.
+info - (t=02:000 s) Element 'G 02' is local reference in separated area of 'Bus 31'
+info - (t=02:000 s) Element 'G 02' is reference in 60.0 Hz-system
+info - (t=03:20:00 min) Simulation successfully executed.
+Contingency 22: Pload0=6097.1000 MW, Pgen0=6140.9084 MW, Pload=6084.9606 MW, Pgen=6131.3142 MW

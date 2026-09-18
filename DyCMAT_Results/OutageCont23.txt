@@ -1,0 +1,221 @@
+evt  - (t=02:000 s) Grid\Line 06 - 07.ElmLne:
+                    Outage Event: Element set to out of service.
+info - (t=02:000 s) Element 'G 02' is local reference in separated area of 'Bus 31'
+info - (t=02:000 s) Element 'G 02' is reference in 60.0 Hz-system
+evt  - (t=48:871 s) Grid\Bus 05\Cub_2\Overloading Relay Line 05 - 06.ElmRelay:
+                    Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=48:871 s) Grid\Bus 05\Cub_2\Switch.StaSwitch:
+                    Circuit-Breaker Action: 'Open' - 'All phases'.
+evt  - (t=48:871 s) Grid\Bus 06\Cub_2\Switch.StaSwitch:
+                    Circuit-Breaker Action: 'Open' - 'All phases'.
+info - (t=48:871 s) Element 'G 02' is local reference in separated area of 'Bus 31'
+info - (t=48:871 s) Element 'G 02' is reference in 60.0 Hz-system
+evt  - (t=01:07:04 min) Grid\Bus 13\Cub_3\Overloading Relay Line 13 - 14.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=01:07:04 min) Grid\Bus 13\Cub_3\Switch.StaSwitch:
+                        Circuit-Breaker Action: 'Open' - 'All phases'.
+evt  - (t=01:07:04 min) Grid\Bus 14\Cub_5\Switch.StaSwitch:
+                        Circuit-Breaker Action: 'Open' - 'All phases'.
+info - (t=01:07:04 min) Element 'G 01' is local reference in separated area of 'Bus 39'
+info - (t=01:07:04 min) Element 'G 02' is local reference in separated area of 'Bus 31'
+info - (t=01:07:04 min) Grid split into 2 isolated areas
+info - (t=01:07:04 min) Element 'G 01' is reference in 60.0 Hz-system
+info - (t=01:07:04 min) Element 'G 02' is reference in 60.0 Hz-system
+evt  - (t=01:08:80 min) Grid\Bus 31\Cub_1\OUFGT Relay G 02.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=01:08:80 min) Grid\Bus 31\Cub_1\Switch.StaSwitch:
+                        Circuit-Breaker Action: 'Open' - 'All phases'.
+info - (t=01:08:80 min) Element 'G 01' is local reference in separated area of 'Bus 39'
+info - (t=01:08:80 min) Element 'G 03' is local reference in separated area of 'Bus 32'
+info - (t=01:08:80 min) Grid split into 3 isolated areas
+info - (t=01:08:80 min) Element 'G 01' is reference in 60.0 Hz-system
+info - (t=01:08:80 min) Element 'G 03' is reference in 60.0 Hz-system
+evt  - (t=01:08:81 min) Grid\Bus 32\Cub_1\OUFGT Relay G 03.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=01:08:81 min) Grid\Bus 32\Cub_1\Switch.StaSwitch:
+                        Circuit-Breaker Action: 'Open' - 'All phases'.
+info - (t=01:08:81 min) Element 'G 01' is local reference in separated area of 'Bus 39'
+info - (t=01:08:81 min) Grid split into 4 isolated areas
+info - (t=01:08:81 min) Element 'G 01' is reference in 60.0 Hz-system
+evt  - (t=01:09:32 min) Grid\Bus 31\Cub_2\LFDD Relay Load 31.ElmRelay:
+                        Relay is tripping. 'U< Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:09:33 min) Grid\Bus 12\Cub_1\LFDD Relay Load 12.ElmRelay:
+                        Relay is tripping. 'U< Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:09:42 min) Grid\Load 31.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -20.000 %. Reactive Power changed by -20.000 %.
+evt  - (t=01:09:43 min) Grid\Load 12.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -20.000 %. Reactive Power changed by -20.000 %.
+evt  - (t=01:10:43 min) Grid\Bus 39\Cub_2\LFDD Relay Load 39.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:48 min) Grid\Bus 07\Cub_1\LFDD Relay Load 07.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:48 min) Grid\Bus 08\Cub_1\LFDD Relay Load 08.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:50 min) Grid\Bus 25\Cub_1\LFDD Relay Load 25.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:50 min) Grid\Bus 04\Cub_1\LFDD Relay Load 04.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:50 min) Grid\Bus 03\Cub_1\LFDD Relay Load 03.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:51 min) Grid\Bus 18\Cub_1\LFDD Relay Load 18.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:51 min) Grid\Bus 26\Cub_1\LFDD Relay Load 26.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:51 min) Grid\Bus 27\Cub_1\LFDD Relay Load 27.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:51 min) Grid\Bus 15\Cub_1\LFDD Relay Load 15.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:51 min) Grid\Bus 28\Cub_1\LFDD Relay Load 28.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:52 min) Grid\Bus 16\Cub_1\LFDD Relay Load 16.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:52 min) Grid\Bus 29\Cub_1\LFDD Relay Load 29.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:52 min) Grid\Bus 24\Cub_1\LFDD Relay Load 24.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:52 min) Grid\Bus 21\Cub_1\LFDD Relay Load 21.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:52 min) Grid\Bus 23\Cub_5\LFDD Relay Load 23.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:52 min) Grid\Bus 20\Cub_1\LFDD Relay Load 20.ElmRelay:
+                        Relay is tripping. '1 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:10:53 min) Grid\Load 39.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:58 min) Grid\Load 07.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:58 min) Grid\Load 08.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:60 min) Grid\Load 25.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:60 min) Grid\Load 04.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:60 min) Grid\Load 03.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:61 min) Grid\Load 27.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:61 min) Grid\Load 15.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:61 min) Grid\Load 28.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:61 min) Grid\Load 18.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:61 min) Grid\Load 26.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:62 min) Grid\Load 16.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:62 min) Grid\Load 29.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:62 min) Grid\Load 24.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:62 min) Grid\Load 21.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:62 min) Grid\Load 23.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:62 min) Grid\Load 20.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:10:68 min) Grid\Bus 31\Cub_1\UVol Relay G 02.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=01:10:68 min) Grid\Bus 31\Cub_1\UVol Relay G 02.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=10:675 s) Switch event 'Switch Event(6)' is not possible. Breaker already opened.
+evt  - (t=10:675 s) Switch event 'Switch Event(7)' is not possible. Breaker already opened.
+evt  - (t=01:11:53 min) Grid\Bus 39\Cub_2\LFDD Relay Load 39.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:63 min) Grid\Load 39.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:11:86 min) Grid\Bus 23\Cub_5\LFDD Relay Load 23.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:86 min) Grid\Bus 21\Cub_1\LFDD Relay Load 21.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:86 min) Grid\Bus 24\Cub_1\LFDD Relay Load 24.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:88 min) Grid\Bus 16\Cub_1\LFDD Relay Load 16.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:88 min) Grid\Bus 15\Cub_1\LFDD Relay Load 15.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:88 min) Grid\Bus 20\Cub_1\LFDD Relay Load 20.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:89 min) Grid\Bus 18\Cub_1\LFDD Relay Load 18.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:89 min) Grid\Bus 03\Cub_1\LFDD Relay Load 03.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:89 min) Grid\Bus 04\Cub_1\LFDD Relay Load 04.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:89 min) Grid\Bus 25\Cub_1\LFDD Relay Load 25.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:90 min) Grid\Bus 27\Cub_1\LFDD Relay Load 27.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:90 min) Grid\Bus 26\Cub_1\LFDD Relay Load 26.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:91 min) Grid\Bus 08\Cub_1\LFDD Relay Load 08.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:91 min) Grid\Bus 07\Cub_1\LFDD Relay Load 07.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:92 min) Grid\Bus 28\Cub_1\LFDD Relay Load 28.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:92 min) Grid\Bus 29\Cub_1\LFDD Relay Load 29.ElmRelay:
+                        Relay is tripping. '2 Logic' signal is sent to the connected breaker(s).
+evt  - (t=01:11:96 min) Grid\Load 23.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:11:96 min) Grid\Load 21.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:11:96 min) Grid\Load 24.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:11:98 min) Grid\Load 16.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:11:98 min) Grid\Load 15.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:11:98 min) Grid\Load 20.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:11:99 min) Grid\Load 18.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:11:99 min) Grid\Load 03.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:11:99 min) Grid\Load 04.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:11:99 min) Grid\Load 25.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:12:00 min) Grid\Load 27.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:12:00 min) Grid\Load 26.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:12:01 min) Grid\Load 08.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:12:01 min) Grid\Load 07.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:12:02 min) Grid\Load 28.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:12:02 min) Grid\Load 29.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -10.000 %. Reactive Power changed by -10.000 %.
+evt  - (t=01:16:65 min) Grid\Bus 31\Cub_1\UVol Relay G 02.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=01:16:65 min) Grid\Bus 31\Cub_1\UVol Relay G 02.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=16:654 s) Switch event 'Switch Event(8)' is not possible. Breaker already opened.
+evt  - (t=16:654 s) Switch event 'Switch Event(9)' is not possible. Breaker already opened.
+evt  - (t=01:22:55 min) Grid\Bus 31\Cub_1\UVol Relay G 02.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=01:22:55 min) Grid\Bus 31\Cub_1\UVol Relay G 02.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=22:554 s) Switch event 'Switch Event(10)' is not possible. Breaker already opened.
+evt  - (t=22:554 s) Switch event 'Switch Event(11)' is not possible. Breaker already opened.
+evt  - (t=01:28:35 min) Grid\Bus 31\Cub_1\UVol Relay G 02.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=01:28:35 min) Grid\Bus 31\Cub_1\UVol Relay G 02.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=28:353 s) Switch event 'Switch Event(12)' is not possible. Breaker already opened.
+evt  - (t=28:353 s) Switch event 'Switch Event(13)' is not possible. Breaker already opened.
+evt  - (t=01:33:99 min) Grid\Bus 31\Cub_1\UVol Relay G 02.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=01:33:99 min) Grid\Bus 31\Cub_1\UVol Relay G 02.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=33:986 s) Switch event 'Switch Event(14)' is not possible. Breaker already opened.
+evt  - (t=33:986 s) Switch event 'Switch Event(15)' is not possible. Breaker already opened.
+evt  - (t=01:39:37 min) Grid\Bus 31\Cub_1\UVol Relay G 02.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=01:39:37 min) Grid\Bus 31\Cub_1\UVol Relay G 02.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=39:374 s) Switch event 'Switch Event(16)' is not possible. Breaker already opened.
+evt  - (t=39:374 s) Switch event 'Switch Event(17)' is not possible. Breaker already opened.
+info - (t=03:20:00 min) Simulation successfully executed.
+Contingency 23: Pload0=6097.1000 MW, Pgen0=6140.9084 MW, Pload=4815.1225 MW, Pgen=4876.1057 MW

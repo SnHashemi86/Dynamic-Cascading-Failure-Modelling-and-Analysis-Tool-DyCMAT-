@@ -1,0 +1,30 @@
+evt  - (t=02:000 s) Grid\Line 05 - 08.ElmLne:
+                    Outage Event: Element set to out of service.
+info - (t=02:000 s) Element 'G 02' is local reference in separated area of 'Bus 31'
+info - (t=02:000 s) Element 'G 02' is reference in 60.0 Hz-system
+evt  - (t=02:28:01 min) Grid\Bus 06\Cub_3\Overloading Relay Line 06 - 07.ElmRelay:
+                        Relay is tripping. 'Open' signal is sent to the connected breaker(s).
+evt  - (t=02:28:01 min) Grid\Bus 06\Cub_3\Switch.StaSwitch:
+                        Circuit-Breaker Action: 'Open' - 'All phases'.
+evt  - (t=02:28:01 min) Grid\Bus 07\Cub_3\Switch.StaSwitch:
+                        Circuit-Breaker Action: 'Open' - 'All phases'.
+info - (t=02:28:01 min) Element 'G 02' is local reference in separated area of 'Bus 31'
+info - (t=02:28:01 min) Element 'G 02' is reference in 60.0 Hz-system
+evt  - (t=02:28:53 min) Grid\Bus 07\Cub_1\LFDD Relay Load 07.ElmRelay:
+                        Relay is tripping. 'U< Logic' signal is sent to the connected breaker(s).
+evt  - (t=02:28:53 min) Grid\Bus 08\Cub_1\LFDD Relay Load 08.ElmRelay:
+                        Relay is tripping. 'U< Logic' signal is sent to the connected breaker(s).
+evt  - (t=02:28:63 min) Grid\Load 07.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -20.000 %. Reactive Power changed by -20.000 %.
+evt  - (t=02:28:63 min) Grid\Load 08.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -20.000 %. Reactive Power changed by -20.000 %.
+evt  - (t=02:29:36 min) Grid\Bus 07\Cub_1\LFDD Relay Load 07.ElmRelay:
+                        Relay is tripping. 'U< Logic' signal is sent to the connected breaker(s).
+evt  - (t=02:29:40 min) Grid\Bus 08\Cub_1\LFDD Relay Load 08.ElmRelay:
+                        Relay is tripping. 'U< Logic' signal is sent to the connected breaker(s).
+evt  - (t=02:29:46 min) Grid\Load 07.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -20.000 %. Reactive Power changed by -20.000 %.
+evt  - (t=02:29:50 min) Grid\Load 08.ElmLod:
+                        Load Event: 'Incremental Change' - Active Power changed by -20.000 %. Reactive Power changed by -20.000 %.
+info - (t=03:20:00 min) Simulation successfully executed.
+Contingency 33: Pload0=6097.1000 MW, Pgen0=6140.9084 MW, Pload=5726.5329 MW, Pgen=5786.3327 MW
