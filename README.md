@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="DyCMAT_Logo.png" alt="DyCMAT Logo" width="300">
+</p>
+
+<h1 align="center">DyCMAT</h1>
+
+<p align="center">
+  <b>Dynamic Cascading Failure Modelling and Analysis Tool</b>
+</p>
+
+<p align="center">
+  Dynamic cascading-failure modelling and analysis using the DIgSILENT PowerFactory Python API.
+</p>
+
+---
+
+
 # DyCMAT
 ## Dynamic Cascading Failure Modelling and Analysis Tool (DyCMAT)
 
