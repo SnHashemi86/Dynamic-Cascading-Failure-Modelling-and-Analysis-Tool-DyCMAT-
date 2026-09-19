@@ -136,7 +136,7 @@ KIOS Research Center of Excellence, University of Cyprus
 
 Research Areas:
 - Power-system resilience
-- Cascading-failure analysis
+- Cascading-failure modelling and risk assessment
 - Converter-dominated grids
 - HVDC-interconnected systems
 - IBR-integrated systems
