@@ -18,16 +18,14 @@
 # DyCMAT
 ## Dynamic Cascading Failure Modelling and Analysis Tool (DyCMAT)
 
-Dynamic Cascading Failure Modelling and Analysis Tool Using the DIgSILENT PowerFactory and Python API.
-
 DyCMAT is a Python-based graphical interface developed for advanced cascading-failure analysis, dynamic security assessment, and resilience-oriented studies of converter-dominated power systems using the DIgSILENT PowerFactory API.
 
 The tool provides an integrated framework for:
 - RMS dynamic simulation automation
 - Cascading contingency analysis
 - Protection and relay modelling
-- Dynamic cascading-failure workflows
-- Converter-dominated grid resilience studies
+- Dynamic cascading-failure studies
+- Converter-dominated grid resilience assessment
 
 -------------------------------------------------------------------------------
 
@@ -48,7 +46,7 @@ The tool provides an integrated framework for:
 ## Dynamic Cascading Modelling
 The tool supports automated installation and configuration of:
 - Overloading relays
-- Under-frequency load shedding 
+- Under-frequency/voltage load shedding 
 - Generator frequency tripping
 - Over-voltage tripping 
 - Under-voltage tripping 
