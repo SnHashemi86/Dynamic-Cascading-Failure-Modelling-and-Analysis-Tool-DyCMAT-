@@ -69,9 +69,11 @@ Although distributed as an executable application (.exe), DyCMAT operates as an 
 ## Using the Executable
 1. Install and activate DIgSILENT PowerFactory.
 2. Open the desired PowerFactory project/study case.
-3. Launch DyCMAT.exe.
-4. Configure the simulation settings.
-5. Run the selected workflow.
+3. Download the latest released DyCMAT executable (DyCMAT.exe) from the following link:
+https://github.com/SnHashemi86/Dynamic-Cascading-Failure-Modelling-and-Analysis-Tool-DyCMAT-/releases/download/v2.1.0/DyCMAT.exe
+4. Launch DyCMAT.exe.
+5. Configure the simulation settings.
+6. Run the selected workflow.
 
 -------------------------------------------------------------------------------
 
