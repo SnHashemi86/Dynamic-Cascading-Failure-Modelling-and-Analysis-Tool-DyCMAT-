@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Dynamic cascading-failure modelling and analysis using the DIgSILENT PowerFactory Python API.
+  Dynamic cascading-failure modelling and analysis using the DIgSILENT PowerFactory and Python API.
 </p>
 
 ---
