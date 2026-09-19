@@ -48,9 +48,8 @@ The tool supports automated installation and configuration of:
 - Overloading relays
 - Under-frequency/voltage load shedding 
 - Generator frequency tripping
-- Over-voltage tripping 
-- Under-voltage tripping 
-
+- Over/under-voltage tripping
+  
 -------------------------------------------------------------------------------
 
 # System Requirements
@@ -62,7 +61,7 @@ The tool supports automated installation and configuration of:
 - PowerFactory Python 3.10 API environment
 
 ## Important Note
-Although distributed as an executable application (.exe), DyCMAT operates as an external interface/controller for DIgSILENT PowerFactory and therefore requires an installed PowerFactory environment.
+Although distributed as an executable application (.exe), DyCMAT operates as an external interface/controller for DIgSILENT PowerFactory and therefore requires a PowerFactory installation.
 
 
 # How to Run
@@ -78,7 +77,7 @@ Although distributed as an executable application (.exe), DyCMAT operates as an 
 
 # Related Publications
 
-If you use this software in academic work, please cite the following references:
+If you use this software in academic, research, or engineering work, please cite the following references:
 
 ## IEEE Access 2025
 S. Hashemi, M. Asprou, L. Hadjidemetriou and M. Panteli,
@@ -102,9 +101,9 @@ All rights reserved.
 
 This software interface, source code structure, workflows, and related implementations were developed for research activities associated with the University of Cyprus.
 
-Redistribution, commercial use, or modification without permission from the developer/authors is not permitted.
+Permission is granted to download and use the released software for research and educational purposes. Redistribution, modification, creation of derivative works, or incorporation into other software is not permitted without prior written permission from the copyright holder(s).
 
-DIgSILENT PowerFactory is a third-party software package and is not distributed with this repository.
+DIgSILENT PowerFactory is a third-party software package and is not distributed with this repository. Users are responsible for obtaining an appropriate DIgSILENT PowerFactory licence separately.
 
 -------------------------------------------------------------------------------
 
@@ -116,7 +115,7 @@ The developers/authors are not responsible for:
 - incorrect engineering use,
 - operational decisions,
 - system-security violations,
-- or damages resulting from misuse of the tool.
+- or any adverse consequences resulting from misuse of the tool.
 
 Users are responsible for validating all simulation results independently.
 
