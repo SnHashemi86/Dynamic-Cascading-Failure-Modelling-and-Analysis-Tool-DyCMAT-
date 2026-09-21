@@ -134,7 +134,7 @@ Mathaios Panteli
 panteli.mathaios@ucy.ac.cy
 
 Institution:
-KIOS Research Center of Excellence, University of Cyprus
+KIOS Research Center of Excellence, Department of Electrical and Computer Engineering, University of Cyprus
 
 Research Areas:
 - Power-system resilience
