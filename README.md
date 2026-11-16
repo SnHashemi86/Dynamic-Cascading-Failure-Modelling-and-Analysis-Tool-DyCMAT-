@@ -81,6 +81,11 @@ https://github.com/SnHashemi86/Dynamic-Cascading-Failure-Modelling-and-Analysis-
 
 If you use this software in academic, research, or engineering work, please cite the following references:
 
+## IEEE Transactions on Reliability
+S. Hashemi, M. Asprou, L. Hadjidemetriou and M. Panteli,
+"Cascading-Aware Cost-Benefit Analysis of MTDC Interconnection Topologies: A Cyprus Case Study," 
+IEEE Transactions on Reliability, doi: 10.1109/TR.2026.3745986.
+
 ## IEEE Access 2025
 S. Hashemi, M. Asprou, L. Hadjidemetriou and M. Panteli,
 "Quantifying and Mitigating Cascading Impacts in HVdc-Interconnected Power Grids,"
