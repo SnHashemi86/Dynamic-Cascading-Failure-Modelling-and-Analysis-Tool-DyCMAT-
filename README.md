@@ -84,7 +84,7 @@ If you use this software in academic, research, or engineering work, please cite
 ## IEEE Transactions on Reliability
 S. Hashemi, M. Asprou, L. Hadjidemetriou and M. Panteli,
 "Cascading-Aware Cost-Benefit Analysis of MTDC Interconnection Topologies: A Cyprus Case Study," 
-IEEE Transactions on Reliability, 
+IEEE Transactions on Reliability, Early Access.
 DOI: https://doi.org/10.1109/TR.2026.3745986
 
 ## IEEE Access 2025
